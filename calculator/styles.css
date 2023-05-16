@@ -152,7 +152,11 @@ body {
 }
 
 .calculator__keys > * {
+<<<<<<< Updated upstream
   background-color: #ffffff62;
+=======
+  background-color: #e028bf;
+>>>>>>> Stashed changes
   padding: 0.5em 1.25em;
   position: relative;
   text-align: center;
