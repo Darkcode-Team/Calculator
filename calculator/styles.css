@@ -152,7 +152,7 @@ body {
 }
 
 .calculator__keys > * {
-  background-color: #fff;
+  background-color: #ffd52c;
   padding: 0.5em 1.25em;
   position: relative;
   text-align: center;
