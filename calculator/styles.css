@@ -145,7 +145,7 @@ body {
 }
 
 .calculator__keys {
-  background-color: #999;
+  background-color: #e42727;
   display: grid;
   grid-gap: 1px;
   grid-template-columns: repeat(4, 1fr);
