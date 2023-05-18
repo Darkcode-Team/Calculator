@@ -112,7 +112,7 @@ html {
 
 body {
   align-items: center;
-  background-image: linear-gradient(236deg, #e84a52, #acb6e5);
+  background-image: linear-gradient(236deg, #74ebd5, #acb6e5);
   display: flex;
   height: 100vh;
   justify-content: center;
@@ -145,14 +145,18 @@ body {
 }
 
 .calculator__keys {
-  background-color: #999;
+  background-color: #e42727;
   display: grid;
   grid-gap: 1px;
   grid-template-columns: repeat(4, 1fr);
 }
 
 .calculator__keys > * {
+<<<<<<< Updated upstream
+  background-color: #ffffff62;
+=======
   background-color: #e028bf;
+>>>>>>> Stashed changes
   padding: 0.5em 1.25em;
   position: relative;
   text-align: center;
