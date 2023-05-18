@@ -152,11 +152,15 @@ body {
 }
 
 .calculator__keys > * {
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   background-color: #ffffff62;
 =======
   background-color: #e028bf;
 >>>>>>> Stashed changes
+=======
+  background-color: #13d837ed;
+>>>>>>> parent of 715dd08 (Merge branch 'guz' of https://github.com/Darkcode-Team/Calculator into guz)
   padding: 0.5em 1.25em;
   position: relative;
   text-align: center;
